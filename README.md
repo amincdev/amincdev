@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Amin charoliya 👋 
 
-<!--
-**amincdev/amincdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Front End Developer @ Buddyboss.
+- 🌱 I’m currently learning React and GraphQL.
 
-Here are some ideas to get you started:
+## Technology 
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+![Mine github](https://github-readme-stats.vercel.app/api?username=amincharoliya&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
+![Mine Skill](https://github-readme-stats.vercel.app/api/top-langs/?username=amincharoliya&langs_count=4&theme=vision-friendly-dark&layout=compact)
