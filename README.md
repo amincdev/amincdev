@@ -14,5 +14,5 @@
 
 ## Stats
 
-![Mine github](https://github-readme-stats.vercel.app/api?username=amincharoliya&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
-![Mine Skill](https://github-readme-stats.vercel.app/api/top-langs/?username=amincharoliya&langs_count=4&theme=vision-friendly-dark&layout=compact)
+![Mine github](https://github-readme-stats.vercel.app/api?username=amincdev&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
+![Mine Skill](https://github-readme-stats.vercel.app/api/top-langs/?username=amincdev&langs_count=4&theme=vision-friendly-dark&layout=compact)
