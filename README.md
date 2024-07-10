@@ -1,6 +1,6 @@
 ### Hi there, I'm Amin charoliya 👋 
 
-- 🔭 I’m currently working as Front End Developer @ Buddyboss.
+🔭 I’m currently working as Front End Developer @ Buddyboss.
 
 ## Technology 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
